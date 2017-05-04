@@ -1,0 +1,17 @@
+sudo passwd root
+su password: 123jin7890
+
+su
+
+/home/jin/Q/Done/Data_Collection_03_14_2017/imu_vn100_recorder' 
+
+shift+control+T
+
+'/home/jin/Q/Done/Data_Collection_03_14_2017/save_data' 
+
+shift+control+T
+
+roslaunch '/home/jin/Q/Done/Data_Collection_03_14_2017/r200_640.launch' 
+
+
+

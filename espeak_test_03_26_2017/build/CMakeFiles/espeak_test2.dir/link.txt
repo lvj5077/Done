@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/espeak_test2.dir/espeak_test2.cpp.o  -o espeak_test2 -rdynamic 

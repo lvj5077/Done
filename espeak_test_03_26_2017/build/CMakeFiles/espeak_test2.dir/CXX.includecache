@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jin/Q/Done/espeak_test_03_26_2017/espeak_test2.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

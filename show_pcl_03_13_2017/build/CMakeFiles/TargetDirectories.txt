@@ -1,0 +1,2 @@
+/home/jin/Q/rgbd-slam-tutorial-gx/part II/build/src/CMakeFiles/generate_pointcloud.dir
+/home/jin/Q/rgbd-slam-tutorial-gx/part II/build/src/CMakeFiles/main.dir
